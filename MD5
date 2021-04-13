@@ -1,0 +1,9 @@
+993c34b4065f2ec0be4df80b62285a47 *DESCRIPTION
+7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
+dcfa829c4403871b6a5ea0f88e2c0edf *R/AsthmaNHANES.R
+4399399bfe87c0a8eedd8b650a3d0b38 *R/data.R
+39932f44f80b2fef6b7076df1271d72f *data/metal.RData
+b64bf51a5fcc982905033fbdf616da50 *data/percent.RData
+33307b761bd122e90cde8a78e42c27ea *man/AsthmaNHANES.Rd
+c7d2c9f20d7f1dfb518d917c0ce478ee *man/metal.Rd
+7b9b12467e563ba4c1d5518561d795fd *man/percent.Rd
